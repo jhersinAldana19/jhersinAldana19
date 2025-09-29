@@ -1,5 +1,7 @@
 # Hi 👋, I'm Jhersin Aldana  
 
+![snake gif](https://github.com/jhersinAldana19/jhersinAldana19/blob/output/github-contribution-grid-snake.svg)
+
 💻 Software Developer  
 📚 Currently studying Software Design & Development at TECSUP  
 📝 Strong interest in Artificial Intelligence & Cloud Computing  
@@ -23,10 +25,12 @@
   <a href="https://www.linkedin.com/in/jhersinaldana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jhersinaldana@gmail.com">
+  <a href="mailto:jhersin.aldana.v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/jhersinaldana" target="_blank">
+  <a href="https://github.com/jhersinAldana19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
+
+---
