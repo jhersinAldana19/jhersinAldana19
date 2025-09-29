@@ -1,4 +1,4 @@
-#                           Hi 👋, I'm Jhersin Aldana  
+# Hi 👋, I'm Jhersin Aldana  
 
 ![snake gif](https://github.com/jhersinAldana19/jhersinAldana19/blob/output/github-contribution-grid-snake.svg)
 
@@ -22,14 +22,14 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhersinaldana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jhersin-aldana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jhersin.aldana.v@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/jhersinAldana19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
