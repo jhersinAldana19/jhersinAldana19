@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hola 👋, Yo soy Jhersin Aldana</h1>
 <h3 align="center">Frontend Developer</h3>
@@ -6,7 +5,6 @@
 - 🔭 Trabajé en el proyecto [REPORTEC](https://c24-6-2025-1-g14-a-inciden-git-d9c723-jhersinaldana19s-projects.vercel.app/login)  
 - 🌱 Actualmente estoy aprendiendo **Angular**  
 - 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://chic-meerkat-57715c.netlify.app/)  
-- 💬 Pregúntame sobre **React**  
 - 📫 Cómo llegar a mí: **jhersin.aldana.v@gmail.com**
 
 ---
