@@ -1,6 +1,8 @@
 # Hi 👋, I'm Jhersin Aldana  
 
-![snake gif](https://github.com/jhersinAldana19/jhersinAldana19/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 💻 Software Developer  
 📚 Currently studying Software Design & Development at TECSUP  
